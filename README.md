@@ -52,11 +52,3 @@ The DCSI ranges from 0, indicating no abnormal dryness or drought, to 500, indic
 - what is the end product in the article?
 - what baseline data should we already have collected? 
 
-
-
-
-
-
-
-(API details here)? 
-Program ? 
