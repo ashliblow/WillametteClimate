@@ -1,7 +1,7 @@
 # WillametteClimate
 
 ## Project Details
-WillametteClimate is a monthly data project from Lookout Eugene–Springfield by Ashli Blow and Michael Zhang. The project produces a concise article using rainfall, snowpack, and drought data to track climate conditions in the southern Willamette Valley.
+This repository is part of a climate data project from Lookout Eugene–Springfield by Ashli Blow and Michael Zhang. The project produces a monthly concise article using rainfall, snowpack, and drought data to track climate conditions in the southern Willamette Valley. This README serves as a guide to standardize how data are collected, processed, and reported for the monthly articles. 
 
 ## Data Sources
 
@@ -42,7 +42,6 @@ The DCSI ranges from 0, indicating no abnormal dryness or drought, to 500, indic
 
 ## Directory 
 - Storing data where? Do we have data to store with API? Do we store raw data here on GitHub? Etc. 
-- Google Folder: https://drive.google.com/drive/folders/1EEMrRGBuHjgc5S2Yd5wjKcFA_oZDHPLF?usp=drive_link
 
 ## Method 
 (API details here)? 
