@@ -41,7 +41,7 @@ Source: [https://droughtmonitor.unl.edu/DmData/DataTables.aspx?state=or](https:/
 The DCSI ranges from 0, indicating no abnormal dryness or drought, to 500, indicating exceptional drought. Values near 250 reflect moderate to severe drought conditions.
 
 ## Directory 
-- Storing data where? Do we have data to store with API? 
+- Storing data where? Do we have data to store with API? Do we store raw data here on GitHub? Etc. 
 - Google Folder: https://drive.google.com/drive/folders/1EEMrRGBuHjgc5S2Yd5wjKcFA_oZDHPLF?usp=drive_link
 
 ## Method 
