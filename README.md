@@ -43,7 +43,8 @@ The DCSI ranges from 0, indicating no abnormal dryness or drought, to 500, indic
 ## Directory 
 - Storing data where? Do we have data to store with API? Do we store raw data here on GitHub? Etc. 
 
-## Method 
+## Method / Approach 
+- Python program is Google Collab
 - API?
 - Flourish? Datawrapper? 
 
