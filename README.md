@@ -44,5 +44,19 @@ The DCSI ranges from 0, indicating no abnormal dryness or drought, to 500, indic
 - Storing data where? Do we have data to store with API? Do we store raw data here on GitHub? Etc. 
 
 ## Method 
+- API?
+- Flourish? Datawrapper? 
+
+## Processed Data
+
+- what is the end product in the article?
+- what baseline data should we already have collected? 
+
+
+
+
+
+
+
 (API details here)? 
 Program ? 
