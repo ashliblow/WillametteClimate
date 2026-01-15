@@ -41,8 +41,7 @@ Source: [https://droughtmonitor.unl.edu/DmData/DataTables.aspx?state=or](https:/
 The DCSI ranges from 0, indicating no abnormal dryness or drought, to 500, indicating exceptional drought. Values near 250 reflect moderate to severe drought conditions.
 
 ## Directory / Folders
-- Is there a directory?
-- We need the shared folder clearly in the LO Eugene-SPringfield Drive. 
+-- The data and scraper behind the project, will all be in a shared drive in Lookout's workspace drive.
 
 ## Method / Approach 
 -  The project uses Google Colab to run script. Colab is a hosted Jupyter Notebook service that requires no setup to use and provides free access to computing resources.
@@ -52,8 +51,8 @@ The DCSI ranges from 0, indicating no abnormal dryness or drought, to 500, indic
   - `dataclasses` — simple data structures
   - `datetime` — dates and time ranges
   - urllib.request, urllib.error — fetching data from the web
-- The script exports data into a spreadsheet to be located in a 
--  API (is this covered?) 
+- The script exports data into a spreadsheet to be located in a shared workspace folder
+- The colab program uses an ACIS API, and pulls the data
 - Exported into a spreadsheet 
 - Flourish? Datawrapper? 
 
