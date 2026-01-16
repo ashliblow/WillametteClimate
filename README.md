@@ -52,9 +52,8 @@ The DCSI ranges from 0, indicating no abnormal dryness or drought, to 500, indic
   - `datetime` — dates and time ranges
   - urllib.request, urllib.error — fetching data from the web
 - The script exports data into a spreadsheet to be located in a shared workspace folder
-- The colab program uses an ACIS API, and pulls the data
-- Exported into a spreadsheet 
-- Flourish? Datawrapper? 
+- The colab program uses an ACIS API, and pulls precipitation data from Eugene's airport for precipitation totals, and Mckenzie River Station for snowdepth data
+- Data is then exported into a spreadsheet in the same folder, allowing us to plug the data into datawrapper for visualization.
 
 ## Processed Data
 
