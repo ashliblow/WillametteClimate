@@ -47,4 +47,5 @@ The DCSI ranges from 0, indicating no abnormal dryness or drought, to 500, indic
 
 ## Processed Data
 
-- A bar chart or histogram of 2025 monthly data compared to  the last 10 years. 
+- A bar chart or histogram of 2025 monthly data preciptiation for Eugene, Mapleton, and Leaburg compared to  the last 10 years.
+- A bar chart or histogram of 2025 monthly data preciptiation for McKenzie's Snotel station in the last 10 years. 
