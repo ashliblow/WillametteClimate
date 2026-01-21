@@ -15,7 +15,7 @@ Source: [https://scacis.rcc-acis.org/](https://scacis.rcc-acis.org/)
 - Stations used:  
   - McKenzie   
   - Eugene–Mahlon Sweet Field  
-  - Mapleton  
+  - Leaburg  
 
 **Snowfall (Sum)**  
 - Product selection: Snowfall (Sum)  
