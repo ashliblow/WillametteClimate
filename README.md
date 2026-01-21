@@ -6,7 +6,7 @@ This repository is part of a climate data project from Lookout Eugene–Springfi
 ## Data Sources
 
 ### Rain and Snow Data
-Rainfall and snow data come from the Applied Climate Information System (ACIS), managed by NOAA’s Regional Climate Centers.  
+Rainfall and snow data come from the Applied Climate Information System (ACIS), managed by NOAA’s Regional Climate Centers. If pulling manually, this is where to find information. 
 Source: [https://scacis.rcc-acis.org/](https://scacis.rcc-acis.org/)
 
 **Rainfall (Sum)**  
