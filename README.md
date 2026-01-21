@@ -40,7 +40,8 @@ The DCSI ranges from 0, indicating no abnormal dryness or drought, to 500, indic
 
 ## Method / Approach 
 -  The project uses Google Colab to run script. Colab is a hosted Jupyter Notebook service that requires no setup to use and provides free access to computing resources.
--  The script establishes a directory to a shared Lookout Drive, where it pulls from retrieves rain, snow depth, and snowfall data from ACIS.
+-  The script establishes a directory to a shared Lookout Drive,
+-  The code uses stations code in the script to pull it from ACIS and into Collab. This effectiely retrieves rain, snow depth, and snowfall data from ACIS.
 -  Details of the coding is explained in text cells above code in the Google Collab script. 
 -  Data is then exported into a spreadsheet in the same folder, allowing us to plug the data into datawrapper for visualization.
 
