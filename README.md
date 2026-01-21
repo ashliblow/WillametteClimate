@@ -13,11 +13,9 @@ Source: [https://scacis.rcc-acis.org/](https://scacis.rcc-acis.org/)
 - Product selection: Precipitation (Sum)  
 - State/Area: Oregon / Lane County  
 - Stations used:  
-  - McKenzie  
-  - Cougar Dam  
+  - McKenzie   
   - Eugene–Mahlon Sweet Field  
   - Mapleton  
-  - Florence #2  
 
 **Snowfall (Sum)**  
 - Product selection: Snowfall (Sum)  
@@ -40,21 +38,11 @@ Source: [https://droughtmonitor.unl.edu/DmData/DataTables.aspx?state=or](https:/
 
 The DCSI ranges from 0, indicating no abnormal dryness or drought, to 500, indicating exceptional drought. Values near 250 reflect moderate to severe drought conditions.
 
-## Directory / Folders
--- The data and scraper behind the project, will all be in a shared drive in Lookout's workspace drive.
-
 ## Method / Approach 
 -  The project uses Google Colab to run script. Colab is a hosted Jupyter Notebook service that requires no setup to use and provides free access to computing resources.
-- The project uses a short Python script that relies only on the Python standard library to fetch, process and format climate data.
-  - `__future__` — enables forward-compatible language features
-  - `csv`, `json`, `os` — file handling and data formats
-  - `dataclasses` — simple data structures
-  - `datetime` — dates and time ranges
-  - urllib.request, urllib.error — fetching data from the web
-- The script exports data into a spreadsheet to be located in a shared workspace folder
-- The colab program uses an ACIS API, and pulls precipitation data from Eugene's airport for precipitation totals, and Mckenzie River Station for snowdepth data
+-  The script establishes a directory to a shared Lookout Drive, where it pulls from retrieves rain, snow depth, and snowfall data from ACIS. 
 - Data is then exported into a spreadsheet in the same folder, allowing us to plug the data into datawrapper for visualization.
 
 ## Processed Data
 
-- A bar chart or histogram of 2025 monthly data compared to 2020 and 2015 months. 
+- A bar chart or histogram of 2025 monthly data compared to  the last 10 years. 
